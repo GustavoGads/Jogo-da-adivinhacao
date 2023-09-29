@@ -1,4 +1,4 @@
-const randomNumber = 5 // Math.round(Math.random() * 10)
+const randomNumber = Math.round(Math.random() * 10)
 let xAttempts = 1
 
 function handleClick(event) {
